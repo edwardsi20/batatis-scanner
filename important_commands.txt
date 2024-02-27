@@ -1,0 +1,6 @@
+git rm testfile01
+git commit -m "testfile01 gelöscht"
+git push origin main
+
+git config --global user.email "edwards.i20@htlwienwest.at"
+git config --global user.name "edwardsi20"
