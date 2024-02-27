@@ -4,3 +4,7 @@ git push origin main
 
 git config --global user.email "edwards.i20@htlwienwest.at"
 git config --global user.name "edwardsi20"
+
+git add neueDatei.txt
+git commit -m "Neue Datei hinzugefügt"
+git push origin branchname
