@@ -8,3 +8,7 @@ git config --global user.name "edwardsi20"
 git add neueDatei.txt
 git commit -m "Neue Datei hinzugefügt"
 git push origin branchname
+
+git add .
+git commit -m "Test"
+git push origin main
